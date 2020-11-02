@@ -9,8 +9,6 @@ In this game I will develop some features which are:
 * Setting
 * Leaderboard
 
-I will make this project become Open Source if I have finished the features I want to apply to this Website.
-
 ## Technology
 I only use vanilla [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 I use a build tool named [Webpack](https://webpack.js.org/) to compress and minify my [CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) in order to make the Website running smoothly.
